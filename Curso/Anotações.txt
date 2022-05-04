@@ -1,1 +1,3 @@
-Essa anotações são para ajustar todos os arquivos e o processo para o meu desenvolvimento como desenvolvedor.
+# Essa anotações
+
+são paraajustar todos os arquivos e o processo para o meu desenvolvimento como desenvolvedor.
